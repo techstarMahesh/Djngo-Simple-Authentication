@@ -23,3 +23,7 @@
 5. CSS. 
 6. Bootstrap. 
 7. JavaScript. 
+
+## Password
+Username: admin
+Password: admin
